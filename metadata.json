@@ -1,0 +1,6 @@
+{
+  "name": "TourMate - Smart AI Tourism Ecosystem",
+  "description": "Unified AI-powered tourism platform and Smart Tourist Kiosk for personalized trip planning, recommendations, and local service discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
